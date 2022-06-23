@@ -1,0 +1,9 @@
+.hero {
+    background-image: url("../../assets/hero.png");
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    display: grid;
+    min-height: 77vh;
+  }
